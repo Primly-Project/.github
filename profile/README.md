@@ -20,5 +20,4 @@ We want the code to be clean, and actually useful before releasing it publicly.
 
 * [ ] Public open-source plugins
 * [ ] Website
-* [ ] Documentations
-* [ ]
+* [ ] Documentation
