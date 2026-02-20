@@ -4,7 +4,7 @@ We build tools that server owners actually enjoy using - hopefully.
 
 ---
 
-Website: planning
+Website: planning <br>
 Wiki: planning
 
 ---
@@ -21,3 +21,7 @@ We want the code to be clean, and actually useful before releasing it publicly.
 * [ ] Public open-source plugins
 * [ ] Website
 * [ ] Documentation
+
+---
+
+© 2026 Primly Project. All rights reserved. [Modrinth](https://modrinth.com/organization/primly) [Github](https://github.com/Primly-Project) [Website](#)
