@@ -24,4 +24,4 @@ We want the code to be clean, and actually useful before releasing it publicly.
 
 ---
 
-© 2026 Primly Project. All rights reserved. [Modrinth](https://modrinth.com/organization/primly) [Github](https://github.com/Primly-Project) [Website](#)
+© 2026 Primly Project. All rights reserved. [Primly](https://modrinth.com/organization/primly) [Primly-Packs](https://modrinth.com/organization/primly-packs) [Github](https://github.com/Primly-Project)
