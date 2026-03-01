@@ -14,4 +14,4 @@ Community Version of Valentines
 
 ---
 
-© 2026 Primly Project. All rights reserved. [Primly](https://modrinth.com/organization/primly) | [Primly-Packs](https://modrinth.com/organization/primly-packs) | [Github](https://github.com/Primly-Project)
+[Primly](https://modrinth.com/organization/primly) | [Primly-Packs](https://modrinth.com/organization/primly-packs) | [Github](https://github.com/Primly-Project) | [Website](https://primly.wejkey.org)[Github](https://github.com/Primly-Project)
