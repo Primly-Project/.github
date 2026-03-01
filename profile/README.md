@@ -4,23 +4,13 @@ We build tools that server owners actually enjoy using - hopefully.
 
 ---
 
-Website: planning <br>
-Wiki: planning
+Website: https://primly.wejkey.org <br>
 
 ---
 
 ## Open Source
 
-Primly projects will become open source soon.
-We want the code to be clean, and actually useful before releasing it publicly.
-
----
-
-## What are we working on
-
-* [ ] Public open-source plugins
-* [ ] Website
-* [ ] Documentation
+Community Version of Valentines
 
 ---
 
